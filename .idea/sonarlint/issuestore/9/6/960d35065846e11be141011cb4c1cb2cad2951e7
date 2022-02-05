@@ -1,0 +1,28 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘
+K
+java:S1854""5Remove this useless assignment to local variable "i".(Ì‚ˆÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍŠ³…ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…Ì÷ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍŠ³…ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…Ì÷ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“¾‚†ıÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(’‰¡ä
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÍŠ³…ıÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(…Ì÷ê
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÍŠ³…ıÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(…Ì÷ê
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ
+=	java:S108A")Either remove or fill this block of code.(ÉáÍs
+k
+java:S1192"PDefine a constant instead of duplicating this literal " is even number" 5 times.(ÍŠ³…ıÿÿÿÿ
+e
+java:S1192"ODefine a constant instead of duplicating this literal " is odd number" 5 times.(…Ì÷ê
+m
+java:S1192"RDefine a constant instead of duplicating this literal "-----------------" 5 times.(Å˜õçüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ñ¬

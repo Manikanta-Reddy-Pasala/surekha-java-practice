@@ -1,0 +1,20 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "marks".(ëÃ•
+Q
+java:S1854";Remove this useless assignment to local variable "myScore".(·‡º„
+Y
+java:S1854">Remove this useless assignment to local variable "myNewValue".(’ñæÚûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€Ş8”Ü ç/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ÿ°´úÿÿÿÿ8ÌÃ¢ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(èÌäö8ØÙ¢ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8Ûì¢ç/
+J
+java:S1481"/Remove this unused "myNewValue" local variable.(’ñæÚûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢ÔØ‚
+G
+java:S1481",Remove this unused "myScore" local variable.(³•Ùîûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Šœâ‰
+@
+java:S1481"*Remove this unused "marks" local variable.(ŞşôØ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Åñ®
