@@ -7,6 +7,8 @@ public class WhatToLearn {
     Maven
     Docker
     Kubernetes
+    thread and concurrency
+    spring boot
 
      */
 }
