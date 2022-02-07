@@ -18,12 +18,12 @@ try {
 }
      */
     public static void main(String[] args) {
-        File file = new File("test.txt");
+        File file = new File("test.txt"); // import
         try {
-            FileReader fr = new FileReader(file);
+            FileReader fr = new FileReader(file); // import
             // below code will not be executed if an exception is thrown, if no exception then all lines below are executed
             System.out.println("continuing");
-        } catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) { //import
             // e.printStackTrace(); usually this is default line we can write whatever we want e.g: below
             System.out.println("file not found: " + file.toString());
         }
@@ -42,7 +42,7 @@ A try block can be followed by one or more catch blocks, each specifying a diffe
  specific class first.
  try {
   // block of code that can throw exceptions
-} catch (ExceptionType1 ex1) {
+} catch (ExceptionType1 ex1) { // first we need to catch child class exceptions then we need to move to parent class
   // exception handler for ExceptionType1
 } catch (ExceptionType2 ex2) {
   // Exception handler for ExceptionType2
@@ -64,7 +64,5 @@ try {
   // Exception handler for ExceptionType2
 } finally {
   // finally block always executes
-}
-
 
  */

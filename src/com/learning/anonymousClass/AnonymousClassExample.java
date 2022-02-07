@@ -17,7 +17,7 @@ public class AnonymousClassExample {
     public static void main(String[] args) {
 
         Machine machine1 = new Machine(){
-            @Override public void start(){ //over riding with anonymous class method
+            @Override public void start(){ //over-riding with anonymous class method
                 System.out.println("Car Started");
             }
         };
@@ -35,8 +35,6 @@ public class AnonymousClassExample {
 //        Plant plant2 = () -> { // using lambda in anonymous class where only 1 method is possible
 //            System.out.println("plant growing");
 //        } ;
-
-
 
         plant1.grow();
     }
