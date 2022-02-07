@@ -1,6 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÑþó
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ù”ñýÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÑþó
-e
-java:S1192"ODefine a constant instead of duplicating this literal "TotalNumber = " 3 times.(ÛÑþó

@@ -1,14 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšþÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ýô½‡ë/
-C
-java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
-P	java:S125"<This block of commented-out lines of code should be removed.(ãþôD
-G
-java:S1481"1Remove this unused "oddNumberSum" local variable.(ÖÚ™â
-O
-java:S1481"2Remove this unused "evenNumberSum" local variable.(‘Æÿ8£ëŽë/
-Q	java:S125$"<This block of commented-out lines of code should be removed.(¢ß€
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ä°ò²üÿÿÿÿ8¿ŸŽë/
-Z	java:S1066"9Replace this use of System.out or System.err by a logger.(åæ¥Žûÿÿÿÿ8¢µŸŽë/
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë“„G8‹æ Žë/
