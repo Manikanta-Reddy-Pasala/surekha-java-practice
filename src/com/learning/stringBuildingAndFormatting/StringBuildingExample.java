@@ -13,7 +13,7 @@ public class StringBuildingExample {
         StringBuilder sb = new StringBuilder();
         sb.append("My name is Surekha. ");
         sb.append("I am 31 years old "); //from second line we can simply use .append instead of sb.append
-        System.out.println(sb.toString());
+        System.out.println(sb);
 
 
         ////////Formatting////////

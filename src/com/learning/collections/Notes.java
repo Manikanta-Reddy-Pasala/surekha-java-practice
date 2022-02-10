@@ -43,6 +43,5 @@ List <data-type> list3 = new Vector();
 List <data-type> list4 = new Stack();
 There are various methods in List interface that can be used to insert, delete, and access the elements from the list.
 
-
  */
 }
