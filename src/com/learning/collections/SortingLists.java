@@ -121,6 +121,7 @@ public class SortingLists {
         animalList.add(new Animal(4, "Snake"));
         animalList.add(new Animal(2, "Bear"));
 
+//sorting in natural is not possible in our own class objects hence below method is used
         // Sort in order of ID / numbers
         Collections.sort(animalList, new Comparator<Animal>() {//new Comparator<Animal>() is an anonymous class
             public int compare(Animal p1, Animal p2) {
