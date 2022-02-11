@@ -11,6 +11,7 @@ You can also have an enum inside a class:
 
         Level level1 = Level.HIGH;
         System.out.println(level1);
+        System.out.println(" ");
 
 //Loop Through an Enum
 //The enum type has a values() method, which returns an array of all enum constants. This method is useful when you

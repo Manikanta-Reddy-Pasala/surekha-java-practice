@@ -72,7 +72,7 @@ public class NaturalOrdering {
         Collections.sort(list);//only for list because TreeSet sorts in natural order by default and this can't be used
         //for our own objects hence we used compare to method from above comparator interface
 
-        showElements(list);
+       showElements(list);
         System.out.println();
         showElements(set);
     }

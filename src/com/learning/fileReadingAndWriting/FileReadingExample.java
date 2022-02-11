@@ -9,7 +9,6 @@ public class FileReadingExample {
         //FileReader fr = new FileReader(file);// we can give this directly in the path name without creating another variable fr
         try (BufferedReader br = new BufferedReader(new FileReader(file))) { // called try with resources only from Java7
             String line;
-
             while ((line = br.readLine()) != null) {
                 System.out.println(line);
             }
